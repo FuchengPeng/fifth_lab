@@ -1,0 +1,15 @@
+{
+  "name": "aa-npm",
+  "version": "1.0.0",
+  "description": "for study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pfc",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
